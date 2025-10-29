@@ -1,0 +1,14 @@
+[
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#4aff3d"
+      },
+      {
+        "weight": 2
+      }
+    ]
+  }
+]
